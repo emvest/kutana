@@ -1,7 +1,8 @@
-package com.jnyakush.kutana
+package com.jnyakush.kutana.ui.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.jnyakush.kutana.R
 
 class MainActivity : AppCompatActivity() {
 
